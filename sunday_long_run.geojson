@@ -2,6 +2,20 @@
 "type": "FeatureCollection",
     "features": [
     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.307826796546578,
+          53.34835544228554
+        ]
+      },
+      "properties": {
+        "marker-symbol": "embassy",
+        "description": "Here's where we start and finish, we usually go anti-clockwise"
+      }
+    },
+    {
     "type": "Feature",
     "geometry": {
     "type": "LineString",
