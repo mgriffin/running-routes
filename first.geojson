@@ -13,7 +13,8 @@
       "properties": {
         "marker-symbol": "pitch",
         "name": "Liffey Valley AC",
-        "address": "Sand Pitts Cottage, Islandbridge"
+        "address": "Sand Pitts Cottage, Islandbridge",
+        "popupContent": "Liffey Valley AC"
       }
     }
   ]
