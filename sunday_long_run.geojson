@@ -16,6 +16,20 @@
       }
     },
     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.310186,
+          53.356622
+        ]
+      },
+      "properties": {
+        "marker-symbol": "marker",
+        "description": "Polo Grounds"
+      }
+    },
+    {
     "type": "Feature",
     "geometry": {
     "type": "LineString",
